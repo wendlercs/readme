@@ -10,8 +10,8 @@ Newbie programmer trying to be better everyday;
 * **Age**: 22;
 * **Lives in**: Minas Gerais, Brazil;
 * **Stacks**: { \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: Python, JavaScript (beginner), \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **studying**: Node.js \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: Python, JavaScript (beginner); \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **studying**: Node.js; \
  } 
 
 ![Wendler' github stats](https://github-readme-stats.vercel.app/api?username=wendlercs&show_icons=true&count_private=true&line_height=21&theme=synthwave&hide_border=true)
