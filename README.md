@@ -18,7 +18,7 @@
 
 ## Hobbies
 
-* 🕹️ Videogames
+* 🕹️ Video games
 * 🍜 Japanese culture
 * 🎵 Music
 
