@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+Welcome!&size=22)](https://git.io/typing-svg) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!👋+I'm,+Wendler!&size=22)](https://git.io/typing-svg) 
 ![](https://komarev.com/ghpvc/?username=wendlercs&color=blue&style=for-the-badge)
 
 Newbie programmer trying to be better everyday;
