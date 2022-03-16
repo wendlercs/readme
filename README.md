@@ -3,7 +3,7 @@
 
 ⛩️ **Computer Engineering student trying to be better everyday** ⛩️
 
-<img align="right" src="https://i.pinimg.com/originals/d6/0b/95/d60b953d2256c8ef9a7968ccacb8e2ed.gif" width="270" />
+<img align="right" src="https://i.pinimg.com/originals/d6/0b/95/d60b953d2256c8ef9a7968ccacb8e2ed.gif" width="260" />
 
 
 
