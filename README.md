@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!👋+I'm+Wendler!&size=22)](https://git.io/typing-svg) 
-<img align="right" src="https://i.pinimg.com/originals/d6/0b/95/d60b953d2256c8ef9a7968ccacb8e2ed.gif" width="250" />
+<img align="right" src="https://i.pinimg.com/originals/d6/0b/95/d60b953d2256c8ef9a7968ccacb8e2ed.gif" width="300" />
 
 ![](https://komarev.com/ghpvc/?username=wendlercs&color=blue&style=for-the-badge)
 
