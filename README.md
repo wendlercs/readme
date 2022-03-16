@@ -19,9 +19,8 @@
 ## Hobbies
 
 * 🏮 Videogames
-* 🏮 Animes and series
 * 🏮 Japanese culture
-* 🏮 Read mangá
+* 🏮 Music
 
 ## Stats
 
