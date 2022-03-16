@@ -13,15 +13,15 @@
 * **Favorite Game**: Final Fantasy XIV;
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Python, C++; \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **studying**: Node.js, JavaScript; \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: Node.js, JavaScript; \
  } 
 
 ## Hobbies
 
-* 🏮 Videogames
-* 🏮 Animes and series
-* 🏮 Japanese culture
-* 🏮 Read mangá
+* 🏮 Videogames 🏮
+* 🏮 Animes and series 🏮
+* 🏮 Japanese culture 🏮
+* 🏮 Read mangá 🏮
 
 ## Stats
 
