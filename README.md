@@ -1,9 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!👋+I'm+Wendler!&size=22)](https://git.io/typing-svg) 
 ![](https://komarev.com/ghpvc/?username=wendlercs&color=blue&style=for-the-badge)
 
+⛩️ **Computer Engineering student trying to be better everyday** ⛩️
+
 <img align="right" src="https://i.pinimg.com/originals/d6/0b/95/d60b953d2256c8ef9a7968ccacb8e2ed.gif" width="270" />
 
-⛩️ Computer Engineering student trying to be better everyday ⛩️
+
 
 
 ## About me 
