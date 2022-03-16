@@ -18,10 +18,10 @@
 
 ## Hobbies
 
-* 🏮 Videogames 🏮
-* 🏮 Animes and series 🏮
-* 🏮 Japanese culture 🏮
-* 🏮 Read mangá 🏮
+* 🏮 Videogames
+* 🏮 Animes and series
+* 🏮 Japanese culture
+* 🏮 Read mangá
 
 ## Stats
 
