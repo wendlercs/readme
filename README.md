@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!👋+I'm+Wendler!&size=22)](https://git.io/typing-svg) 
 ![](https://komarev.com/ghpvc/?username=wendlercs&color=blue&style=for-the-badge)
 
-<img align="right" src="https://user-images.githubusercontent.com/13263031/158471939-34ea7390-7332-42f9-8839-0a957d5be4af.png" width="400" />
+<img align="right" src="https://i.pinimg.com/originals/d6/0b/95/d60b953d2256c8ef9a7968ccacb8e2ed.gif" width="300" />
 
 ⛩️ Computer Engineering student trying to be better everyday ⛩️
 
@@ -10,7 +10,7 @@
 * **Name**: Wendler Custódio;
 * **Age**: 22;
 * **Lives in**: Minas Gerais, Brazil;
-* **Favourite Game**: Final Fantasy XIV;
+* **Favorite Game**: Final Fantasy XIV;
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Python, C++; \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **studying**: Node.js, JavaScript; \
