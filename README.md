@@ -20,6 +20,7 @@
 * 🕹️ Video games
 * 🍜 Japanese culture
 * 🎵 Music
+* 🎲 Role-playing game
 
 ## Stats
 
