@@ -1,14 +1,14 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+Welcome!&size=22)](https://git.io/typing-svg) 
 ![](https://komarev.com/ghpvc/?username=wendlercs&color=blue&style=for-the-badge)
 
-Newbie programmer trying to be better everyday \
+Newbie programmer trying to be better everyday;
 
 <img align="right" src="https://user-images.githubusercontent.com/13263031/158471939-34ea7390-7332-42f9-8839-0a957d5be4af.png" width="400" />
 
 ## About me 
-* **Name**: Wendler Custódio 
-* **Age**: 22
-* **Lives in**: Minas Gerais, Brazil
+* **Name**: Wendler Custódio;
+* **Age**: 22;
+* **Lives in**: Minas Gerais, Brazil;
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **langs**: Python, JavaScript (beginner), \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **studying**: Node.js \
