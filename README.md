@@ -12,7 +12,7 @@
 * **Favorite Game**: Final Fantasy XIV;
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Python, C++; \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: C# \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: C#; \
  } 
 
 ## Hobbies
