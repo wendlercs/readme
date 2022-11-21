@@ -7,12 +7,12 @@
 
 ## About me 
 * **Name**: Wendler Custódio;
-* **Age**: 22;
+* **Age**: 23;
 * **Lives in**: Minas Gerais, Brazil;
 * **Favorite Game**: Final Fantasy XIV;
 * **Stacks**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: Python, C++; \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: Node.js, JavaScript; \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **learning**: C# \
  } 
 
 ## Hobbies
