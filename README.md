@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wendlercs&color=blue&style=for-the-badge)
 
-⛩️ **Computer Engineering student trying to be better everyday** ⛩️
+⛩️ **Computer Engineer trying to be better everyday** ⛩️
 
 ## About me 
 * **Name**: Wendler Custódio;
