@@ -6,7 +6,7 @@
 ### About me 
 * **Name**: Wendler Custódio;
 * **Age**: 25;
-* **Lives in**: Minas Gerais, Brazil;
+* **Lives in**: Montes Claros - Minas Gerais, Brazil;
 * **Stack**: { \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **languages**: C#, Javacript, Python; \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **front-end**: React.js; \
