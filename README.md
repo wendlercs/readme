@@ -1,5 +1,5 @@
 ### <h1 align="Left"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto&lines=Hello!👋+I'm+Wendler!&size=22)](https://git.io/typing-svg) </h1>
-<img align="right" src="./gif/scenario.gif" width="350" />
+<img align="right" src="./gif/scenario.gif" width="400" />
 
 ⛩️ **Computer Engineer trying to be better everyday** ⛩️
 
